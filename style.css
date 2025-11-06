@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.ul1 {
+    background-color: aquamarine;
+    list-style-position: inside;
+    list-style-type:none;
+    display: flex;
+    margin-top: 10px;
+}
+
+.ul1 > li{
+    padding: 10px;
+}
+
+
+
+.li2 {
+    background-color: yellow;
+    border: 2px solid black;
+    list-style-type: "😋";
+    list-style-position: inside;
+    padding: 2px;
+    margin: 10px;
+}
